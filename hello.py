@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
 
-print("hello world!")
+print("格物工业互联网真棒")
